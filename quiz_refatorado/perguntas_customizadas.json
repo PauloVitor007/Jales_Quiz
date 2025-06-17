@@ -1,0 +1,15 @@
+{
+    "ciencia": [
+        {
+            "enunciado": "Quem é Lula",
+            "resposta_correta": "Presidente do L",
+            "tipo": "multipla_escolha",
+            "opcoes": [
+                "Presidente do L",
+                "Ladrão",
+                "Messias",
+                "Pai dos Pobres"
+            ]
+        }
+    ]
+}
